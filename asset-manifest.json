@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://lokeshdudigollar.github.io/csb-0sjuu1/static/css/main.0e780c3c.css",
+    "main.js": "https://lokeshdudigollar.github.io/csb-0sjuu1/static/js/main.aaa3a924.js",
+    "index.html": "https://lokeshdudigollar.github.io/csb-0sjuu1/index.html",
+    "main.0e780c3c.css.map": "https://lokeshdudigollar.github.io/csb-0sjuu1/static/css/main.0e780c3c.css.map",
+    "main.aaa3a924.js.map": "https://lokeshdudigollar.github.io/csb-0sjuu1/static/js/main.aaa3a924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e780c3c.css",
+    "static/js/main.aaa3a924.js"
+  ]
+}
